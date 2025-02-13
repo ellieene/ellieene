@@ -45,8 +45,21 @@
 
 ## 📊 GitHub Статистика    
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=ellieene&show_icons=true&theme=tokyonight)  
-![Языки в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=ellieene&layout=compact&theme=tokyonight)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ellieene&show_icons=true&theme=tokyonight" alt="Статистика GitHub">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieene&layout=compact&theme=tokyonight" alt="Языки в репозиториях">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellieene&theme=tokyonight" alt="Контрибьюции">
+    </td>
+  </tr>
+</table>
 
 ---
 
