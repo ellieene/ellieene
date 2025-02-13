@@ -47,14 +47,6 @@
 
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=ellieene&show_icons=true&theme=tokyonight)  
 ![Языки в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=ellieene&layout=compact&theme=tokyonight)  
-![Контрибьюции](https://github-readme-streak-stats.herokuapp.com/?user=ellieene&theme=tokyonight)  
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ellieene&theme=radical" alt="GitHub Streak">
-</p>
 
 ---
 
