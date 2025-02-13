@@ -47,10 +47,10 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ellieene&show_icons=true&theme=tokyonight" alt="Статистика GitHub">
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieene&layout=compact&theme=tokyonight" alt="Языки в репозиториях">
     </td>
   </tr>
