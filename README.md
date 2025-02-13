@@ -10,31 +10,25 @@
 
 ## 👨‍💻 Обо мне
 
-<div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <p style="font-size: 1.2em; color: #333;">Привет! Я <strong style="color: #6c63ff;">Валерий</strong>, разработчик с опытом работы в разных технологиях и языках программирования. Мой путь в программировании начался около года назад с Python, однако я быстро понял, что курсы устарели, и решил углубиться в более практические и современные направления.</p>
-
-  <h3 style="color: #6c63ff;">🎓 Мой опыт:</h3>
-  <ul style="color: #555;">
-    <li><strong>School 21 от Сбербанк:</strong> Начал изучение с <strong style="color: #00aaff;">C</strong> и <strong style="color: #00aaff;">Bash</strong>, затем параллельно углубился в <strong style="color: #00aaff;">Frontend</strong> (JavaScript, React).</li>
-    <li>Со временем я увлекся <strong style="color: #ff7b00;">Backend</strong> разработкой на <strong style="color: #6c63ff;">Java</strong>, и с тех пор это стал мой основной язык. <strong style="color: #ff7b00;">Spring Framework</strong> и его экосистема меня полностью захватили.</li>
-    <li>Также активно изучаю <strong style="color: #00aaff;">микросервисную архитектуру</strong>, работу с <strong style="color: #ff7b00;">PostgreSQL</strong>, <strong style="color: #ff7b00;">Docker</strong>, <strong style="color: #ff7b00;">Kafka</strong> и другими инструментами для эффективной разработки.</li>
+<div style="background: linear-gradient(to right, #ff7b00, #6c63ff); padding: 20px; border-radius: 20px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); color: white; font-family: 'Arial', sans-serif;">
+  <h2 style="font-size: 1.8em; text-align: center;">Привет, я <strong>Валерий</strong></h2>
+  <p style="font-size: 1.2em; line-height: 1.6; text-align: center;">
+    Я разработчик с опытом работы в разных технологиях и языках программирования. Мой путь в программировании начался около года назад с Python, но позже я понял, что курсы устарели, и решил углубиться в более современные и практичные направления.
+  </p>
+  
+  <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">🎓 Мой опыт</h3>
+  <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
+    <li><strong>School 21 от Сбербанк:</strong> Начал изучение с <span style="color: #ffdb00;">C</span> и <span style="color: #ffdb00;">Bash</span>, затем углубился в <span style="color: #ffdb00;">Frontend</span> (JavaScript, React).</li>
+    <li>Со временем я увлекся <span style="color: #ffdb00;">Backend</span> разработкой на <span style="color: #ffdb00;">Java</span>, и с тех пор это стал мой основной язык. <span style="color: #ffdb00;">Spring Framework</span> стал моим увлечением.</li>
+    <li>Изучаю <span style="color: #ffdb00;">микросервисную архитектуру</span>, работу с <span style="color: #ffdb00;">PostgreSQL</span>, <span style="color: #ffdb00;">Docker</span>, <span style="color: #ffdb00;">Kafka</span> и другими инструментами.</li>
   </ul>
-
-  <h3 style="color: #6c63ff;">💻 Мои интересы:</h3>
-  <ul style="color: #555;">
-    <li>Программирование, особенно <strong style="color: #ff7b00;">Java</strong> и <strong style="color: #ff7b00;">Spring</strong>.</li>
-    <li>Разработка <strong style="color: #ff7b00;">микросервисов</strong> и их интеграция с различными сервисами.</li>
-    <li>Работать с <strong style="color: #00aaff;">искусственным интеллектом</strong> и создавать инновационные решения для реальных проблем.</li>
+  
+  <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">💻 Мои интересы</h3>
+  <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
+    <li>Программирование, особенно <span style="color: #ffdb00;">Java</span> и <span style="color: #ffdb00;">Spring</span>.</li>
+    <li>Разработка <span style="color: #ffdb00;">микросервисов</span> и интеграция с различными сервисами.</li>
+    <li>Работа с <span style="color: #ffdb00;">искусственным интеллектом</span> и созданием инновационных решений.</li>
   </ul>
-
-  <p style="font-size: 1.2em; color: #333;">Я всегда стремлюсь к <strong style="color: #6c63ff;">профессиональному росту</strong> и люблю решать реальные задачи, которые могут помочь людям.</p>
-</div>
-
-<h3 style="color: #6c63ff;">🚀 Технологии, с которыми я работаю:</h3>
-<div style="background-color: #f4f4f9; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <p style="color: #555; font-size: 1.1em;">- <span style="color: #6c63ff;">Java</span>, <span style="color: #ff7b00;">Spring Boot</span>, <span style="color: #ff7b00;">Hibernate</span>, <span style="color: #ff7b00;">Kafka</span>, <span style="color: #00aaff;">PostgreSQL</span>, <span style="color: #00aaff;">Docker</span>.</p>
-  <p style="color: #555; font-size: 1.1em;">- <span style="color: #6c63ff;">React</span>, <span style="color: #ff7b00;">Redux</span>, <span style="color: #00aaff;">HTML</span>, <span style="color: #ff7b00;">CSS</span>.</p>
-  <p style="color: #555; font-size: 1.1em;">- <span style="color: #00aaff;">gRPC</span>, <span style="color: #ff7b00;">Swagger</span>, <span style="color: #6c63ff;">Maven</span>.</p>
 </div>
 
 Я всегда стремлюсь к **профессиональному росту** и люблю решать реальные задачи, которые могут помочь людям.
