@@ -24,23 +24,23 @@
 
 ## 🛠️ Стек технологий  
 ### **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+## 🚀 Стек технологий  
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend
+<img src="https://img.shields.io/badge/Java-17-blue?style=flat&logo=java&logoColor=white" alt="Java 17" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/Spring%20Boot-2.5-blue?style=flat&logo=springboot&logoColor=white" alt="Spring Boot 2.5" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/Hibernate-5.6-blue?style=flat&logo=hibernate&logoColor=white" alt="Hibernate 5.6" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/PostgreSQL-14-blue?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL 14" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/Kafka-2.8-blue?style=flat&logo=apachekafka&logoColor=white" alt="Kafka 2.8" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/Docker-20-blue?style=flat&logo=docker&logoColor=white" alt="Docker 20" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/REST-API-blue?style=flat&logo=api&logoColor=white" alt="REST API" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/gRPC-blue?style=flat&logo=grpc&logoColor=white" alt="gRPC" style="border-radius: 10px;">
 
+### Frontend
+<img src="https://img.shields.io/badge/React-17-blue?style=flat&logo=react&logoColor=white" alt="React 17" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/Redux-blue?style=flat&logo=redux&logoColor=white" alt="Redux" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/HTML-blue?style=flat&logo=html5&logoColor=white" alt="HTML" style="border-radius: 10px;">
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white" alt="CSS" style="border-radius: 10px;">
 ---
 
 ## 📊 GitHub Статистика    
