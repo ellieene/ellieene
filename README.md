@@ -54,11 +54,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellieene&layout=compact&theme=tokyonight" alt="Языки в репозиториях">
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellieene&theme=tokyonight" alt="Контрибьюции">
-    </td>
-  </tr>
 </table>
 
 ---
