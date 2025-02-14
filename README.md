@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Валерий! 👋</h1>
+<h1 align="center">Валерий Смирнов! 👋</h1>
 
 <p align="center">
   🚀 <strong>Java-разработчик | Backend & Frontend</strong>  
@@ -11,10 +11,6 @@
 ## 👨‍💻 Обо мне
 
 <div style="background: linear-gradient(to right, #ff7b00, #6c63ff); padding: 20px; border-radius: 20px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); color: white; font-family: 'Arial', sans-serif;">
-  <h2 style="font-size: 1.8em; text-align: center;"><strong>Валерий Смирнов</strong></h2>
-  <p style="font-size: 1.2em; line-height: 1.6; text-align: center;">
-    Я разработчик с опытом работы в разных технологиях и языках программирования. Мой путь в программировании начался около года назад с Python, но позже я понял, что курсы устарели, и решил углубиться в более современные и практичные направления.
-  </p>
   
   <h3 style="font-size: 1.5em; text-align: center; color: #ffdb00;">🎓 Мой опыт</h3>
   <ul style="font-size: 1.1em; list-style-type: none; padding: 0; text-align: center; color: #fff;">
