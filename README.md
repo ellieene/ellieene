@@ -36,7 +36,7 @@
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-21-blue?style=flat&logo=java&logoColor=white" alt="Java 17" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/Java-17-21-blue?style=flat&logo=java&logoColor=white" alt="Java 17" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.4-green?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/Hibernate-5.6-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/PostgreSQL-14-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 10px;">
